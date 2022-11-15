@@ -1,0 +1,45 @@
+{
+  "GuideData": {
+    "AdsController": {
+      
+      
+      "baseURL": "http://korastar4k.live/",
+	  
+	  "ironsource_appKey": "16215a73d",
+	    
+      "BannerAd": "admob",
+      "InterstitialAd": "admob",
+      "NativeAdna": "admob",
+      
+	  
+	  
+	  "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+      "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+      "NativeAdmob": "ca-app-pub-3940256099942544/1044960115",
+	  
+	  
+      "maxBanner": "",
+      "maxInterstitial": "",
+      "maxNative": "",
+      
+	  
+      
+      
+      "unity_game_id": "",
+      "unity_test": true,
+      "unity_banner": "Banner_Android",
+      "unity_interstitial": "Interstitial_Android",
+      
+	  
+      "BannerFb": "0",
+      "InterstitialFb": "0",
+      "NativeFb": "",    
+	    
+		
+      "ImageBanner": false,
+      "ImageBannerImg": "https://iili.io/s3IJHb.gif",
+      "ImageBannerURL": "https://www.google.ru"
+	  
+    }
+  }
+}
