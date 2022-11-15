@@ -5,7 +5,7 @@
       
       "baseURL": "http://korastar4k.live/",
 	  
-	  "ironsource_appKey": "16215a73d",
+      "ironsource_appKey": "16215a73d",
 	    
       "BannerAd": "admob",
       "InterstitialAd": "admob",
@@ -13,7 +13,7 @@
       
 	  
 	  
-	  "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+      "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
       "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
       "NativeAdmob": "ca-app-pub-3940256099942544/1044960115",
 	  
@@ -31,8 +31,8 @@
       "unity_interstitial": "Interstitial_Android",
       
 	  
-      "BannerFb": "0",
-      "InterstitialFb": "0",
+      "BannerFb": "",
+      "InterstitialFb": "",
       "NativeFb": "",    
 	    
 		
