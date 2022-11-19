@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>HLS Player (M3U8)</title>
+    <script src="hls.min.js" type="application/javascript"></script>
+  </head>
+  <body>
+    <video controls width="640" height="360"></video>
+    <script>
+      ((source) => {
+        if (typeof Hls == "undefined") return;
+        if (!document.querySelector("video")) return;
+        var hls = new Hls();
+        hls.loadSource(source);
+        hls.attachMedia(document.querySelector("video"));
+      })("M3U8 LINK");
+    </script>
+  </body>
+</html>
