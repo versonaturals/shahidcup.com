@@ -7,9 +7,9 @@
 	  
       "ironsource_appKey": "177aae68d",
 	    
-      "BannerAd": "admob",
-      "InterstitialAd": "admob",
-      "NativeAdna": "admob",
+      "BannerAd": "applovin",
+      "InterstitialAd": "applovin",
+      "NativeAdna": "applovin",
       
 	  
 	  
@@ -18,9 +18,9 @@
       "NativeAdmob": "ca-app-pub-3940256099942544/1044960115",
 	  
 	  
-      "maxBanner": "",
-      "maxInterstitial": "",
-      "maxNative": "",
+      "maxBanner": "44e9fb500f031a7f",
+      "maxInterstitial": "22a39266e7f0af10",
+      "maxNative": "cf41bb85a51232b9",
       
 	  
       
