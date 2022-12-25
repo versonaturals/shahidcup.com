@@ -7,15 +7,15 @@
 	  
       "ironsource_appKey": "177aae68d",
 	    
-      "BannerAd": "applovin",
-      "InterstitialAd": "applovin",
+      "BannerAd": "admob",
+      "InterstitialAd": "admob",
       "NativeAdna": "admob",
       
 	  
 	  
-      "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-      "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
-      "NativeAdmob": "ca-app-pub-3940256099942544/1044960115",
+      "BannerAdmob": "ca-app-pub-1581372724763449/2303841542",
+      "InterstitialAdmob": "ca-app-pub-1581372724763449/9263167414",
+      "NativeAdmob": "ca-app-pub-1581372724763449/5990955051",
 	  
 	  
       "maxBanner": "44e9fb500f031a7f",
