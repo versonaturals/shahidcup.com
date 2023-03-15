@@ -7,7 +7,7 @@
 	  
       "ironsource_appKey": "177aae68d",
 	    
-      "BannerAd": "admob",
+      "BannerAd": "facebook",
       "InterstitialAd": "admob",
       "NativeAdna": "admob",
       
@@ -31,9 +31,9 @@
       "unity_interstitial": "Interstitial_Android",
       
 	  
-      "BannerFb": "korafcbanner",
-      "InterstitialFb": "korafcinter",
-      "NativeFb": "korafcnative",    
+      "BannerFb": "4938490836249616_4938530246245675",
+      "InterstitialFb": "4938490836249616_4938532712912095",
+      "NativeFb": "4938490836249616_4938522352913131",    
 	    
 		
       "ImageBanner": false,
